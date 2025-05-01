@@ -2,7 +2,7 @@
 
 ## 📝 평가 개요
 
-- **제출 방식**: 교수자의 GitHub 리포지토리를 Fork하여 문제 풀이 후, `main` 브랜치에 Merge한 뒤 자신의 GitHub 리포지토리 주소 제출  
+- **제출 방식**: 교수자의 GitHub 리포지토리를 Fork하여 문제 풀이 후, `main` 브랜치에 Merge한 뒤 자신의 GitHub repository 주소를 LMS에 제출  
 - **시험 환경**: Debian Linux, Bash, Git, jq 설치 필수  
 - **제출 마감일**: `2025-05-02T10:30:00.000+09:00`
 
