@@ -57,8 +57,9 @@ root/
   - 인자가 하나도 없는 경우 `"No numbers provided"` 라고 출력
 
 #### 브랜치 이름: `feature/vowel-fix`  
-#### 커밋 개수: **최소 2개**  
+#### 커밋 개수: **문제당 1개 씩**  
 #### 커밋 prefix: `[Q1]`
+#### 병합 방식: **non-fast-forward**
 
 ---
 
